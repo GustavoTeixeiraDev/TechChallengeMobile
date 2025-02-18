@@ -1,0 +1,24 @@
+{
+  "professors": [
+    {
+      "id": "7394",
+      "name": "Gustavo",
+      "email": "gustavo@gmail.com",
+      "password": "123456"
+    }
+  ],
+  "students": [
+    {
+      "id": "dcf6",
+      "name": "Kleitin",
+      "email": "kleitin@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "492e",
+      "name": "Kleitin",
+      "email": "kleitin@gmail.com",
+      "password": "123456"
+    }
+  ]
+}
